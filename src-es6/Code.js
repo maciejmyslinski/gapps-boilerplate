@@ -1,4 +1,4 @@
 // eslint-disable-next-line no-unused-vars
-function myFunction() {
+const myFunction = () => {
   Logger.log('Hello world')
 }
